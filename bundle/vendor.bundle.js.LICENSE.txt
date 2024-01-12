@@ -59,7 +59,7 @@
  */
 
 /**
- * @mui/lab v5.0.0-alpha.146
+ * @mui/lab v5.0.0-alpha.160
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
@@ -67,15 +67,7 @@
  */
 
 /**
- * @mui/material v5.13.7
- *
- * @license MIT
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/**
- * @mui/styled-engine v5.14.11
+ * @mui/styled-engine v5.15.4
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
